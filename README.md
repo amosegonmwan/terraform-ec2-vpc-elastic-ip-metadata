@@ -8,6 +8,9 @@ This project sets up an AWS EC2 instance using Terraform, with the following fea
 - Attaches an Elastic IP to the EC2 instance.
 - Provides access to instance metadata via a web browser.
 
+![image](https://github.com/user-attachments/assets/cd9ffde7-5ff7-466a-9dc1-e4776a770781)
+
+
 ## File Structure
 
 1. **provider.tf**: Configuration for the AWS provider.
